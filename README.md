@@ -1,18 +1,18 @@
+# Algorithm Project
 
-# Algorithm Visualizer
+## 📌 Overview
+This project demonstrates different algorithm implementations in C.  
+It covers:
+- Searching Algorithms → Linear Search, Binary Search
+- Sorting Algorithms → Insertion Sort, Bubble Sort, Merge Sort, Quick Sort
+- Greedy Algorithms → Fractional Knapsack, Coin Change
 
-## 📌 Project Overview
-This project demonstrates different algorithm implementations in C, including:
-- Searching Algorithms (Linear Search, Binary Search)
-- Sorting Algorithms (Insertion Sort, Bubble Sort, Merge Sort, Quick Sort)
-- Greedy Algorithms (Fractional Knapsack, Coin Change)
+The main objective is to analyze time/space complexity, compare performance, and improve understanding of algorithm design.
+
+---
 
 ## 🛠️ Tools & Technologies
-- Language: C
-- IDE: CodeBlocks / DevC++ / VS Code
-- GitHub for version control
+- **Language:** C  
+- **IDE:** CodeBlocks 
+- **Version Control:** Git & GitHub  
 
-## 🚀 Usage
-1. Compile the program:
-   ```bash
-   gcc main.c -o algoVisualizer
